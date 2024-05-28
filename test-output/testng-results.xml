@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="7" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-28T09:37:54 IST" name="Suite" finished-at="2024-05-28T09:38:22 IST" duration-ms="27706">
+    <groups>
+    </groups>
+    <test started-at="2024-05-28T09:37:54 IST" name="Test" finished-at="2024-05-28T09:38:22 IST" duration-ms="27706">
+      <class name="testcases.loginTestCases">
+        <test-method is-config="true" signature="browserAndurlLaunch()[pri:0, instance:testcases.loginTestCases@2d7275fc]" started-at="2024-05-28T09:38:11 IST" name="browserAndurlLaunch" finished-at="2024-05-28T09:38:16 IST" duration-ms="4350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAndurlLaunch -->
+        <test-method signature="verifyLoginWithInValidData()[pri:0, instance:testcases.loginTestCases@2d7275fc]" started-at="2024-05-28T09:38:16 IST" name="verifyLoginWithInValidData" finished-at="2024-05-28T09:38:17 IST" duration-ms="1553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInValidData -->
+        <test-method is-config="true" signature="browserAndurlLaunch()[pri:0, instance:testcases.loginTestCases@2d7275fc]" started-at="2024-05-28T09:38:17 IST" name="browserAndurlLaunch" finished-at="2024-05-28T09:38:21 IST" duration-ms="3707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAndurlLaunch -->
+        <test-method signature="verifyLoginWithValidData()[pri:0, instance:testcases.loginTestCases@2d7275fc]" started-at="2024-05-28T09:38:21 IST" name="verifyLoginWithValidData" finished-at="2024-05-28T09:38:22 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidData -->
+      </class> <!-- testcases.loginTestCases -->
+      <class name="testcases.registerTestCases">
+        <test-method is-config="true" signature="ExtentReport()[pri:0, instance:testcases.registerTestCases@245b4bdc]" started-at="2024-05-28T09:37:54 IST" name="ExtentReport" finished-at="2024-05-28T09:37:54 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentReport -->
+        <test-method is-config="true" signature="browserAndurlLaunch()[pri:0, instance:testcases.registerTestCases@245b4bdc]" started-at="2024-05-28T09:37:55 IST" name="browserAndurlLaunch" finished-at="2024-05-28T09:38:04 IST" duration-ms="9170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAndurlLaunch -->
+        <test-method signature="verifyRegistrrationWithValideData()[pri:1, instance:testcases.registerTestCases@245b4bdc]" started-at="2024-05-28T09:38:04 IST" name="verifyRegistrrationWithValideData" finished-at="2024-05-28T09:38:08 IST" duration-ms="4174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrrationWithValideData -->
+        <test-method is-config="true" signature="browserAndurlLaunch()[pri:0, instance:testcases.registerTestCases@245b4bdc]" started-at="2024-05-28T09:38:08 IST" name="browserAndurlLaunch" finished-at="2024-05-28T09:38:10 IST" duration-ms="2593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAndurlLaunch -->
+        <test-method signature="verifyRegistrrationWithBlankData()[pri:2, instance:testcases.registerTestCases@245b4bdc]" started-at="2024-05-28T09:38:10 IST" name="verifyRegistrrationWithBlankData" finished-at="2024-05-28T09:38:11 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrrationWithBlankData -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testcases.registerTestCases@245b4bdc]" started-at="2024-05-28T09:38:22 IST" name="endReport" finished-at="2024-05-28T09:38:23 IST" duration-ms="1172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testcases.registerTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
